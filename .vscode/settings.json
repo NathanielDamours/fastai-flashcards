@@ -1,0 +1,8 @@
+{
+    "pasteImage.path": "${currentFileDir}/img",
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true
+    }
+}
