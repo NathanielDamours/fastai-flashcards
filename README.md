@@ -16,7 +16,7 @@
 4. [Under the Hood: Training a Digit Classifier](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/04_mnist_basics.apkg)
 5. [Image Classification](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/05_pet_breeds.apkg)
 6. [Other Computer Vision Problems](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/06_multicat.apkg)
-7. Training a State-of-the-Art Model
+7. [Training a State-of-the-Art Model](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/07_sizing_and_tta.apkg)
 8. [Collaborative Filtering Deep Dive](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/08_collab.apkg)
 9. [Tabular Modeling Deep Dive](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/09_tabular.apkg)
 10. [NLP Deep Dive: RNNs](https://github.com/NathanielDamours/fastai-flashcards/raw/main/decks/10_nlp.apkg)
